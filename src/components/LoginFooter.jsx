@@ -9,7 +9,7 @@ function LoginFooter() {
     return (
         <>
             <div className="w-full text-start">
-                <a href="JavaScript" className={`${txtColor} py-2 px-5 block my-12 ${btnColor} hover:text-white ${bgColor} hover:rounded-md w-32 text-center relative overflow-hidden`} onClick={(e) => handleStop(e)}>
+                <a href="##" className={`${txtColor} py-2 px-5 block my-12 ${btnColor} hover:text-white ${bgColor} hover:rounded-md w-32 text-center relative overflow-hidden`} onClick={(e) => handleStop(e)}>
                     <span className="absolute block top-0 w-full h-2 -left-0 animate-[btn1_1s_linear_infinite]" style={{
                         background: `linear-gradient(90deg, transparent,  ${borderColor})`,
 
